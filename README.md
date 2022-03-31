@@ -1,4 +1,4 @@
-## Hi, Wei Zheng.
+## Hi, I'm Wei Zheng.
 
 ### Contact Information ▼
 * **LinkedIn** ['LinkedIn Link'](https://www.linkedin.com/in/wei-e-zheng/)
