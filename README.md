@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, Wei Zheng.
+
+### Contact Information ▼
+* **LinkedIn** ['LinkedIn Link'](https://www.linkedin.com/in/wei-e-zheng/)
 
 <!--
 **WeiEZheng/WeiEZheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
